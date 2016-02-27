@@ -1,4 +1,5 @@
 Hello,
 I am Tony Jaa,
-I worked in Sha-Po-Lung 2,
-I did not worked in Sha-Po-Lung 1
+I worked in Sha-Po-Lang 2,
+I did not worked in Sha-Po-Lang 1
+hello bro
