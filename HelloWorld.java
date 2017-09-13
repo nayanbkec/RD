@@ -7,6 +7,10 @@ public class HelloWorld {
 		System.out.println("Hello world");
 	}
 	
+	public static void method2(String[] args) {
+		System.out.println("Hello world");
+	}
+	
 	public static void method1(String[] args) {
 		System.out.println("Hello world");
 	}
