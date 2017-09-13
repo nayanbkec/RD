@@ -10,4 +10,10 @@ public class GitWorld {
 	public static void printALine(){
 		System.out.println("Git world");
 	}
+
+	public static void doSummation(){
+		int a = 10;
+		int b = 10;
+		System.out.println(a+b);
+	}
 }
